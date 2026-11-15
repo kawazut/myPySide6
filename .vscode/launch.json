@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: PySide6 App",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/mypyside6/app.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
